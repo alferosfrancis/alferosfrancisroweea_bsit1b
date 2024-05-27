@@ -1,0 +1,31 @@
+body{
+background-image: url(bg.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+margin: 0;
+padding: 0;
+font-family: Arial
+background: Blue;
+}
+.nav{
+overflow: hidden;
+background: #964B00;
+}
+.nav a{
+float: left;
+color: #fff;
+text-align: center;
+padding: 20px 16px;
+text-decoration: none;
+width:100px;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+}
+.nav a:hover{
+color:#000;
+background: Green;
+}
